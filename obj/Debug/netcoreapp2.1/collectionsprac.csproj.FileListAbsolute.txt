@@ -1,0 +1,11 @@
+/Users/ricardorivera/cSharp/collectionsprac/bin/Debug/netcoreapp2.1/collectionsprac.deps.json
+/Users/ricardorivera/cSharp/collectionsprac/bin/Debug/netcoreapp2.1/collectionsprac.runtimeconfig.json
+/Users/ricardorivera/cSharp/collectionsprac/bin/Debug/netcoreapp2.1/collectionsprac.runtimeconfig.dev.json
+/Users/ricardorivera/cSharp/collectionsprac/bin/Debug/netcoreapp2.1/collectionsprac.dll
+/Users/ricardorivera/cSharp/collectionsprac/bin/Debug/netcoreapp2.1/collectionsprac.pdb
+/Users/ricardorivera/cSharp/collectionsprac/obj/Debug/netcoreapp2.1/collectionsprac.csprojAssemblyReference.cache
+/Users/ricardorivera/cSharp/collectionsprac/obj/Debug/netcoreapp2.1/collectionsprac.csproj.CoreCompileInputs.cache
+/Users/ricardorivera/cSharp/collectionsprac/obj/Debug/netcoreapp2.1/collectionsprac.AssemblyInfoInputs.cache
+/Users/ricardorivera/cSharp/collectionsprac/obj/Debug/netcoreapp2.1/collectionsprac.AssemblyInfo.cs
+/Users/ricardorivera/cSharp/collectionsprac/obj/Debug/netcoreapp2.1/collectionsprac.dll
+/Users/ricardorivera/cSharp/collectionsprac/obj/Debug/netcoreapp2.1/collectionsprac.pdb
